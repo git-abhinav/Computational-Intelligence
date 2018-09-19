@@ -18,7 +18,6 @@ print('Output: %d' % int(model.predict([[0, 0]])))
 # In[ ]:
 
 
-mcs18du@googlegroups.com
 
 
 # In[14]:
